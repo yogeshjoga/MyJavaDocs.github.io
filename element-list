@@ -3,5 +3,7 @@ Annotations_rev
 Collections
 Enum
 Java8Fet_Rev.defaultMethod
+Java8Fet_Rev.defaultMethod.WithJava8Features
+Java8Fet_Rev.defaultMethod.WithOutDefaultMethodJava7
 Java8Fet_Rev.Functional_Interface
 Refelection_api
