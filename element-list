@@ -1,12 +1,15 @@
 unnamed package
 Annotations_rev
+Arrays_Rev
 Collections
 Enum
+Exception_handling
 genriecs
 Java8Fet_Rev
 Java8Fet_Rev.defaultMethod
 Java8Fet_Rev.defaultMethod.WithJava8Features
 Java8Fet_Rev.defaultMethod.WithOutDefaultMethodJava7
+Java8Fet_Rev.EncodeaAndDecode
 Java8Fet_Rev.forEachMethod
 Java8Fet_Rev.Functional_Interface
 Java8Fet_Rev.javaMomeryMgmt
@@ -15,6 +18,10 @@ Java8Fet_Rev.methodConsturectorReference.ConstructerRef
 Java8Fet_Rev.methodConsturectorReference.MethodRef
 Java8Fet_Rev.PreDefinedFunctionalInterfaces
 Java8Fet_Rev.StreamApi
+Methods_Classes
+Mutlithreading_Rev
+OOPs_Rev
 Refelection_api
+RegularExperssions
 Strings_Rev
 Variables_Loops_Operator
